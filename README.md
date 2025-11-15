@@ -79,7 +79,7 @@ Advanced prompt engineering to ensure consistent JSON output format and high-qua
   {"subject": "cancer research", "relation": "aims to identify", "object": "genes that cause oncogenesis"},
   {"subject": "somatic mutations", "relation": "alter the function of", "object": "critical gene"}
 ]
-
+```
 ## Security best practices
 
 - Environment variables for API keys
